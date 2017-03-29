@@ -10,10 +10,7 @@ annoying to install so you can use this docker image instead.
 
 # Usage
 
-``` bash
-docker build -t getax:2016 .
-docker run -it -v /path/to/pp:/root/GeTax2016/pp -e DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix getax:2016
-```
+`docker run -it -v /path/to/pp:/root/GeTax2016/pp -e DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix silex/getax:2016`
 
 # Updates
 
