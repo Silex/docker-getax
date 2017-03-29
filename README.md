@@ -1,7 +1,7 @@
 # Supported tags
 
 - `2015` [2015/Dockerfile](https://github.com/silex/docker-getax/blob/master/2015/Dockerfile)
-- `2016`, `latest` [2016/Dockerfile](https://github.com/silex/docker-getax/blob/master/2016/Dockerfile)
+- `2016` [2016/Dockerfile](https://github.com/silex/docker-getax/blob/master/2016/Dockerfile)
 
 # Description
 
